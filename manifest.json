@@ -1,0 +1,9 @@
+{
+  "id": "roadmap-graph",
+  "name": "Roadmap graph",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Roadmap as graph by notes.",
+  "author": "https://github.com/DR-LLL",
+  "isDesktopOnly": false
+}
